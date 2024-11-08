@@ -1,0 +1,87 @@
+body {
+    background-color: #EDE6D9;
+}
+.titulo-destaque {
+    color:rgb(0, 0, 0);
+    font-size: 200%;
+
+}
+
+.apresentacao {display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 6% 10%;
+}
+
+.apresentacao_conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.apresentacao_conteudo_titulo {
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+}
+
+.apresentacao_conteudo_texto {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+}
+
+.cabecalho {
+    padding: 2% 0% 0% 10%;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 40px;
+}
+
+.cabecalho_menu_link_x {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    padding: 10px 12px;
+    background-color: #8c7048;
+    color: #000;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.cabecalho_menu_link {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    padding: 10px 12px;
+    color: #000;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.icones_redes {
+    width: 8%;
+}
+
+.imagem_index {
+    width: 120%;
+    border: #000;
+    border-radius: 13px;
+}
+
+.imagem_sobre {
+    width: 120%;
+    padding-top: 10x;
+}
+
+.apresentacao_botao_about {
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
