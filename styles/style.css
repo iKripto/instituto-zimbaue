@@ -85,3 +85,8 @@ body {
     font-weight: bold;
 }
 
+.pix {
+    width: 50%;
+    border: #000;
+    border-radius: 3px;
+}
